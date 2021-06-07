@@ -1,0 +1,7 @@
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\bin\Debug\Lanac prodavnica.exe.config
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\bin\Debug\Lanac prodavnica.exe
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\bin\Debug\Lanac prodavnica.pdb
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\obj\Debug\Lanac prodavnica.csprojAssemblyReference.cache
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\obj\Debug\Lanac prodavnica.csproj.CoreCompileInputs.cache
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\obj\Debug\Lanac prodavnica.exe
+C:\Users\Bekica\Desktop\Lanac prodavnica (2)\Lanac prodavnica\Lanac prodavnica\obj\Debug\Lanac prodavnica.pdb
